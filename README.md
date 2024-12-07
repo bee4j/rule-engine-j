@@ -14,7 +14,9 @@
    - 基础框架：Spring Boot 2.7.18 / tk.mybatis
    - 规则存储：MySQL 8.x，特征、黑白名单、评分的配置管理、。
    - 事件存储：MongoDB 6.x，非结构化的行为事件数据存储。
-   - 索引存储：Elasticsearch 7.x，事件识别分析结果数据存储。
+   - 索引存储：事件识别分析结果数据存储，支持配置，二选一
+      - Elasticsearch 7.x
+      - MongoDB 6.x
 ### 三、架构设计
    - 产品架构
    - 系统架构
