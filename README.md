@@ -25,6 +25,6 @@
       - MongoDB 6.x
 ### 三、架构设计
    - 产品架构
-     ![风控中心1 0(产品架构)](https://github.com/user-attachments/assets/3bb9b0ec-50ec-4973-8eed-662ba6afc28c)
+     ![风控中心1 0(产品架构)](https://github.com/user-attachments/assets/3d0b6485-1d87-4bd0-b9e5-93b8b245af76)
    - 系统架构
 
